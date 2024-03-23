@@ -1,1 +1,1 @@
-# SuJ-Technology
+#This is a blog site template.
